@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="orderbuttontext">Order take Away</string>
+    <string name="description">Little Lemon is a World class Restaurant where you can relax your mind by ordering world class foods</string>
+    <string name="location">Chicogo</string>
+    <string name="title">Little Lemon</string>
+    <string name="order_for_takeaway">Order for Take Away</string>
+
+
+</resources>
